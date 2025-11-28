@@ -60,7 +60,7 @@ The first part of the screenshot is my query, and the second part is a portion o
 
 My team needs to make one more security update on employees who are not in the Information Technology department. To make the update, I first have to get information on these employees.
 
-The following demonstrates how I created a SQL query to filter for employee machines from employees not in the Information Technology department.
+The following demonstrates how I created a SQL queries to filter for employee machines from employees not in the Information Technology department.
 
 ![https://i.imgur.com/tfHkYkH.png](https://i.imgur.com/tfHkYkH.png)
 
